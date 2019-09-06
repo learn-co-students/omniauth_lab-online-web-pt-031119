@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'omniauth'
+
+gem 'omniauth-facebook'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 gem 'bootsnap'
